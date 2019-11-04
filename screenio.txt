@@ -1,0 +1,39 @@
+************************************************************
+*	PROGRAMMED BY : Ramon Amini
+*	STUDENT ID    : 1086060
+*	CLASS         : M/W - 5pm
+*	EXTRA CREDIT  : Red Black Tree
+************************************************************
+/******************************************************************************
+ *  EXTRA CREDIT - Red Black Tree
+ * ----------------------------------------------------------------------------
+ *  This Program:
+ * 	Implements a red black tree. The program inserts all keys and deletes some
+ *  of them while printing the tree each time using an inorder traversal.
+ *-----------------------------------------------------------------------------
+******************************************************************************/
+
+Printing the tree using an inorder traversal:
+15  25  35  45  55  65  75  85  95
+
+
+*Deleting 55*
+Printing the tree using an inorder traversal:
+15  25  35  45  65  75  85  95
+
+
+*Deleting 45*
+Printing the tree using an inorder traversal:
+15  25  35  65  75  85  95
+
+
+*Deleting 85*
+Printing the tree using an inorder traversal:
+15  25  35  65  75  95
+
+
+*Deleting 95*
+Printing the tree using an inorder traversal:
+15  25  35  65  75
+
+Process finished with exit code 0
